@@ -1,0 +1,18 @@
+{
+    "name": "Nebula Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://github.com/sihlla/NebulaBotShit.git",
+            "id": "69a843a0-4b51-11e9-86f4-77d11fe7f86d",
+            "name": "https://github.com/sihlla/NebulaBotShit.git"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Taylor\\Documents\\Nebula Bot.bot"
+}
